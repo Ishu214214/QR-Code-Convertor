@@ -13,6 +13,7 @@ flasgger
 streamlit
 nltk
 qrcode
+cv2
 
 
 
